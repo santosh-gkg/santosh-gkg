@@ -59,9 +59,7 @@ Hello! I'm Santosh Kumar, a passionate AI and ML enthusiast currently pursuing m
   ![Advanced RAG](https://img.shields.io/badge/Advanced%20RAG-informational?style=flat&logo=) 
   ![NLP](https://img.shields.io/badge/NLP-informational?style=flat&logo=) 
   ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-ffd700?style=flat&logo=huggingface) 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&
-
-logo=docker) 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) 
   ![Gradio](https://img.shields.io/badge/Gradio-informational?style=flat&logo=) 
   ![LLMs API](https://img.shields.io/badge/LLMs%20API-informational?style=flat&logo=) 
   ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-informational?style=flat&logo=) 
