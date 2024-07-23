@@ -92,6 +92,3 @@ logo=docker)
 
 Feel free to reach out to me via email at [santoshkumgkg@gmail.com](mailto:santoshkumgkg@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/santosh-kumar-gkg/).
 
----
-
-Feel free to customize any section further according to your preferences!
